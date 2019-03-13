@@ -7,3 +7,6 @@ bbb
 ppp
 
 now loading...
+yes
+
+music start!
